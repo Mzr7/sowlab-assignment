@@ -1,6 +1,6 @@
 # sowlab_assignment
 
-A new Flutter project.
+A front-end + Authentication for an app
 
 ## Getting Started
 
